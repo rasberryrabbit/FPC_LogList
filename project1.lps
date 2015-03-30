@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="9"/>
+    <BuildModes Active="Default"/>
+    <Units Count="20">
+      <Unit0>
+        <Filename Value="project1.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <UsageCount Value="73"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="unit1.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="Form1"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="Unit1"/>
+        <TopLine Value="53"/>
+        <CursorPos X="3" Y="66"/>
+        <UsageCount Value="73"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="loglistfpc.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="loglistfpc"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="247"/>
+        <CursorPos Y="257"/>
+        <UsageCount Value="73"/>
+        <Loaded Value="True"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="C:\development\fpc\rtl\objpas\classes\classesh.inc"/>
+        <TopLine Value="741"/>
+        <CursorPos X="15" Y="755"/>
+        <UsageCount Value="10"/>
+      </Unit3>
+      <Unit4>
+        <Filename Value="C:\development\fpc\rtl\objpas\classes\stringl.inc"/>
+        <TopLine Value="1060"/>
+        <CursorPos X="3" Y="1063"/>
+        <UsageCount Value="7"/>
+      </Unit4>
+      <Unit5>
+        <Filename Value="C:\development\lazarus\lcl\controls.pp"/>
+        <UnitName Value="Controls"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="2221"/>
+        <CursorPos X="15" Y="2235"/>
+        <UsageCount Value="10"/>
+      </Unit5>
+      <Unit6>
+        <Filename Value="C:\development\lazarus\lcl\include\customcontrol.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="73"/>
+        <CursorPos X="3" Y="78"/>
+        <UsageCount Value="10"/>
+      </Unit6>
+      <Unit7>
+        <Filename Value="C:\development\fpc\rtl\inc\objpash.inc"/>
+        <TopLine Value="177"/>
+        <CursorPos X="23" Y="192"/>
+        <UsageCount Value="7"/>
+      </Unit7>
+      <Unit8>
+        <Filename Value="C:\development\fpc\rtl\inc\objpas.inc"/>
+        <TopLine Value="275"/>
+        <CursorPos X="9" Y="277"/>
+        <UsageCount Value="7"/>
+      </Unit8>
+      <Unit9>
+        <Filename Value="C:\development\lazarus\lcl\forms.pp"/>
+        <UnitName Value="Forms"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="146"/>
+        <CursorPos X="15" Y="164"/>
+        <UsageCount Value="10"/>
+      </Unit9>
+      <Unit10>
+        <Filename Value="C:\development\lazarus\lcl\graphics.pp"/>
+        <TopLine Value="279"/>
+        <CursorPos X="3" Y="296"/>
+        <UsageCount Value="9"/>
+      </Unit10>
+      <Unit11>
+        <Filename Value="C:\development\lazarus\lcl\include\wincontrol.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="4004"/>
+        <CursorPos Y="4018"/>
+        <UsageCount Value="10"/>
+      </Unit11>
+      <Unit12>
+        <Filename Value="C:\development\lazarus\lcl\lcltype.pp"/>
+        <TopLine Value="86"/>
+        <CursorPos X="14" Y="130"/>
+        <UsageCount Value="7"/>
+      </Unit12>
+      <Unit13>
+        <Filename Value="C:\development\lazarus\lcl\include\scrollingwincontrol.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="131"/>
+        <CursorPos X="3" Y="135"/>
+        <UsageCount Value="10"/>
+      </Unit13>
+      <Unit14>
+        <Filename Value="C:\development\lazarus\lcl\include\controlscrollbar.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="187"/>
+        <CursorPos X="3" Y="189"/>
+        <UsageCount Value="10"/>
+      </Unit14>
+      <Unit15>
+        <Filename Value="C:\development\lazarus\lcl\widgetset\wsforms.pp"/>
+        <TopLine Value="148"/>
+        <CursorPos Y="151"/>
+        <UsageCount Value="8"/>
+      </Unit15>
+      <Unit16>
+        <Filename Value="C:\development\lazarus\lcl\include\control.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="1199"/>
+        <CursorPos X="3" Y="1206"/>
+        <UsageCount Value="10"/>
+      </Unit16>
+      <Unit17>
+        <Filename Value="C:\development\lazarus\lcl\include\winapih.inc"/>
+        <TopLine Value="241"/>
+        <CursorPos X="10" Y="256"/>
+        <UsageCount Value="9"/>
+      </Unit17>
+      <Unit18>
+        <Filename Value="C:\development\lazarus\lcl\include\canvas.inc"/>
+        <TopLine Value="1178"/>
+        <CursorPos X="3" Y="1187"/>
+        <UsageCount Value="9"/>
+      </Unit18>
+      <Unit19>
+        <Filename Value="C:\development\lazarus\lcl\lmessages.pp"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="175"/>
+        <CursorPos X="3" Y="189"/>
+        <UsageCount Value="10"/>
+      </Unit19>
+    </Units>
+    <JumpHistory Count="30" HistoryIndex="29">
+      <Position1>
+        <Filename Value="loglistfpc.pas"/>
+        <Caret Line="190" Column="18" TopLine="166"/>
+      </Position1>
+      <Position2>
+        <Filename Value="loglistfpc.pas"/>
+        <Caret Line="191" Column="18" TopLine="167"/>
+      </Position2>
+      <Position3>
+        <Filename Value="loglistfpc.pas"/>
+        <Caret Line="194" Column="42" TopLine="170"/>
+      </Position3>
+      <Position4>
+        <Filename Value="loglistfpc.pas"/>
+        <Caret Line="231" Column="73" TopLine="208"/>
+      </Position4>
+      <Position5>
+        <Filename Value="loglistfpc.pas"/>
+        <Caret Line="272" Column="41" TopLine="248"/>
+      </Position5>
+      <Position6>
+        <Filename Value="loglistfpc.pas"/>
+        <Caret Line="509" Column="15" TopLine="485"/>
+      </Position6>
+      <Position7>
+        <Filename Value="loglistfpc.pas"/>
+        <Caret Line="63" Column="31" TopLine="62"/>
+      </Position7>
+      <Position8>
+        <Filename Value="loglistfpc.pas"/>
+        <Caret Line="367" Column="54" TopLine="350"/>
+      </Position8>
+      <Position9>
+        <Filename Value="loglistfpc.pas"/>
+      </Position9>
+      <Position10>
+        <Filename Value="loglistfpc.pas"/>
+        <Caret Line="177" Column="23" TopLine="162"/>
+      </Position10>
+      <Position11>
+        <Filename Value="loglistfpc.pas"/>
+        <Caret Line="186" Column="15" TopLine="162"/>
+      </Position11>
+      <Position12>
+        <Filename Value="loglistfpc.pas"/>
+        <Caret Line="258" Column="17" TopLine="234"/>
+      </Position12>
+      <Position13>
+        <Filename Value="loglistfpc.pas"/>
+        <Caret Line="294" Column="13" TopLine="270"/>
+      </Position13>
+      <Position14>
+        <Filename Value="loglistfpc.pas"/>
+        <Caret Line="292" Column="28" TopLine="271"/>
+      </Position14>
+      <Position15>
+        <Filename Value="loglistfpc.pas"/>
+        <Caret Line="85" Column="35" TopLine="72"/>
+      </Position15>
+      <Position16>
+        <Filename Value="loglistfpc.pas"/>
+        <Caret Line="296" Column="14" TopLine="250"/>
+      </Position16>
+      <Position17>
+        <Filename Value="loglistfpc.pas"/>
+        <Caret Line="315" Column="12" TopLine="291"/>
+      </Position17>
+      <Position18>
+        <Filename Value="loglistfpc.pas"/>
+        <Caret Line="387" Column="58" TopLine="363"/>
+      </Position18>
+      <Position19>
+        <Filename Value="loglistfpc.pas"/>
+        <Caret Line="430" Column="57" TopLine="412"/>
+      </Position19>
+      <Position20>
+        <Filename Value="loglistfpc.pas"/>
+        <Caret Line="63" Column="34" TopLine="57"/>
+      </Position20>
+      <Position21>
+        <Filename Value="loglistfpc.pas"/>
+        <Caret Line="81" Column="20" TopLine="70"/>
+      </Position21>
+      <Position22>
+        <Filename Value="loglistfpc.pas"/>
+        <Caret Line="83" Column="24" TopLine="70"/>
+      </Position22>
+      <Position23>
+        <Filename Value="loglistfpc.pas"/>
+        <Caret Line="88" Column="73" TopLine="70"/>
+      </Position23>
+      <Position24>
+        <Filename Value="loglistfpc.pas"/>
+        <Caret Line="314" Column="13" TopLine="306"/>
+      </Position24>
+      <Position25>
+        <Filename Value="loglistfpc.pas"/>
+        <Caret Line="87" Column="22" TopLine="67"/>
+      </Position25>
+      <Position26>
+        <Filename Value="loglistfpc.pas"/>
+        <Caret Line="212" Column="18" TopLine="204"/>
+      </Position26>
+      <Position27>
+        <Filename Value="loglistfpc.pas"/>
+        <Caret Line="73" TopLine="69"/>
+      </Position27>
+      <Position28>
+        <Filename Value="loglistfpc.pas"/>
+        <Caret Line="83" Column="22" TopLine="70"/>
+      </Position28>
+      <Position29>
+        <Filename Value="loglistfpc.pas"/>
+        <Caret Line="82" Column="19" TopLine="70"/>
+      </Position29>
+      <Position30>
+        <Filename Value="loglistfpc.pas"/>
+        <Caret Line="256" Column="21" TopLine="253"/>
+      </Position30>
+    </JumpHistory>
+  </ProjectSession>
+</CONFIG>
