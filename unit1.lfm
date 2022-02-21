@@ -1,19 +1,23 @@
 object Form1: TForm1
-  Left = 234
+  Left = 416
   Height = 307
-  Top = 137
+  Top = 198
   Width = 475
   Caption = 'Form1'
   ClientHeight = 307
   ClientWidth = 475
   OnCreate = FormCreate
   OnDestroy = FormDestroy
-  LCLVersion = '1.3'
+  LCLVersion = '2.3.0.0'
   object Panel1: TPanel
     Left = 8
-    Height = 224
+    Height = 200
     Top = 8
     Width = 458
+    BevelColor = clMenuText
+    BevelOuter = bvNone
+    BevelWidth = 2
+    BorderStyle = bsSingle
     Caption = 'Panel1'
     TabOrder = 0
     Visible = False
@@ -32,7 +36,7 @@ object Form1: TForm1
     Height = 25
     Top = 256
     Width = 75
-    Caption = 'Button2'
+    Caption = 'Clear'
     OnClick = Button2Click
     TabOrder = 2
   end

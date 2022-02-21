@@ -2,13 +2,13 @@
 <CONFIG>
   <ProjectSession>
     <PathDelim Value="\"/>
-    <Version Value="9"/>
+    <Version Value="12"/>
     <BuildModes Active="Default"/>
-    <Units Count="20">
+    <Units Count="21">
       <Unit0>
         <Filename Value="project1.lpr"/>
         <IsPartOfProject Value="True"/>
-        <UsageCount Value="73"/>
+        <UsageCount Value="78"/>
       </Unit0>
       <Unit1>
         <Filename Value="unit1.pas"/>
@@ -17,41 +17,42 @@
         <HasResources Value="True"/>
         <ResourceBaseClass Value="Form"/>
         <UnitName Value="Unit1"/>
-        <TopLine Value="53"/>
-        <CursorPos X="3" Y="66"/>
-        <UsageCount Value="73"/>
+        <TopLine Value="48"/>
+        <CursorPos X="83" Y="70"/>
+        <UsageCount Value="78"/>
         <Loaded Value="True"/>
         <LoadedDesigner Value="True"/>
       </Unit1>
       <Unit2>
         <Filename Value="loglistfpc.pas"/>
         <IsPartOfProject Value="True"/>
-        <UnitName Value="loglistfpc"/>
         <IsVisibleTab Value="True"/>
         <EditorIndex Value="1"/>
-        <TopLine Value="247"/>
-        <CursorPos Y="257"/>
-        <UsageCount Value="73"/>
+        <TopLine Value="289"/>
+        <CursorPos Y="254"/>
+        <UsageCount Value="78"/>
         <Loaded Value="True"/>
       </Unit2>
       <Unit3>
         <Filename Value="C:\development\fpc\rtl\objpas\classes\classesh.inc"/>
-        <TopLine Value="741"/>
-        <CursorPos X="15" Y="755"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="827"/>
+        <CursorPos X="15" Y="845"/>
         <UsageCount Value="10"/>
       </Unit3>
       <Unit4>
         <Filename Value="C:\development\fpc\rtl\objpas\classes\stringl.inc"/>
-        <TopLine Value="1060"/>
-        <CursorPos X="3" Y="1063"/>
-        <UsageCount Value="7"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="1391"/>
+        <CursorPos X="3" Y="1811"/>
+        <UsageCount Value="10"/>
       </Unit4>
       <Unit5>
         <Filename Value="C:\development\lazarus\lcl\controls.pp"/>
         <UnitName Value="Controls"/>
         <EditorIndex Value="-1"/>
-        <TopLine Value="2221"/>
-        <CursorPos X="15" Y="2235"/>
+        <TopLine Value="2395"/>
+        <CursorPos X="15" Y="2413"/>
         <UsageCount Value="10"/>
       </Unit5>
       <Unit6>
@@ -77,8 +78,8 @@
         <Filename Value="C:\development\lazarus\lcl\forms.pp"/>
         <UnitName Value="Forms"/>
         <EditorIndex Value="-1"/>
-        <TopLine Value="146"/>
-        <CursorPos X="15" Y="164"/>
+        <TopLine Value="164"/>
+        <CursorPos X="18" Y="181"/>
         <UsageCount Value="10"/>
       </Unit9>
       <Unit10>
@@ -103,15 +104,15 @@
       <Unit13>
         <Filename Value="C:\development\lazarus\lcl\include\scrollingwincontrol.inc"/>
         <EditorIndex Value="-1"/>
-        <TopLine Value="131"/>
-        <CursorPos X="3" Y="135"/>
+        <TopLine Value="315"/>
+        <CursorPos Y="326"/>
         <UsageCount Value="10"/>
       </Unit13>
       <Unit14>
         <Filename Value="C:\development\lazarus\lcl\include\controlscrollbar.inc"/>
         <EditorIndex Value="-1"/>
-        <TopLine Value="187"/>
-        <CursorPos X="3" Y="189"/>
+        <TopLine Value="273"/>
+        <CursorPos X="3" Y="306"/>
         <UsageCount Value="10"/>
       </Unit14>
       <Unit15>
@@ -146,127 +147,139 @@
         <CursorPos X="3" Y="189"/>
         <UsageCount Value="10"/>
       </Unit19>
+      <Unit20>
+        <Filename Value="C:\development\lazarus\lcl\lclintf.pas"/>
+        <UnitName Value="LCLIntf"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="219"/>
+        <UsageCount Value="10"/>
+      </Unit20>
     </Units>
     <JumpHistory Count="30" HistoryIndex="29">
       <Position1>
         <Filename Value="loglistfpc.pas"/>
-        <Caret Line="190" Column="18" TopLine="166"/>
+        <Caret Line="83" Column="33" TopLine="73"/>
       </Position1>
       <Position2>
         <Filename Value="loglistfpc.pas"/>
-        <Caret Line="191" Column="18" TopLine="167"/>
+        <Caret Line="303" Column="40" TopLine="279"/>
       </Position2>
       <Position3>
         <Filename Value="loglistfpc.pas"/>
-        <Caret Line="194" Column="42" TopLine="170"/>
+        <Caret Line="254" Column="16" TopLine="238"/>
       </Position3>
       <Position4>
         <Filename Value="loglistfpc.pas"/>
-        <Caret Line="231" Column="73" TopLine="208"/>
+        <Caret Line="89" Column="13" TopLine="72"/>
       </Position4>
       <Position5>
         <Filename Value="loglistfpc.pas"/>
-        <Caret Line="272" Column="41" TopLine="248"/>
+        <Caret Line="199" Column="26" TopLine="171"/>
       </Position5>
       <Position6>
         <Filename Value="loglistfpc.pas"/>
-        <Caret Line="509" Column="15" TopLine="485"/>
+        <Caret Line="254" Column="20" TopLine="226"/>
       </Position6>
       <Position7>
         <Filename Value="loglistfpc.pas"/>
-        <Caret Line="63" Column="31" TopLine="62"/>
+        <Caret Line="377" Column="9" TopLine="349"/>
       </Position7>
       <Position8>
         <Filename Value="loglistfpc.pas"/>
-        <Caret Line="367" Column="54" TopLine="350"/>
+        <Caret Line="392" Column="9" TopLine="364"/>
       </Position8>
       <Position9>
         <Filename Value="loglistfpc.pas"/>
+        <Caret Line="393" Column="9" TopLine="365"/>
       </Position9>
       <Position10>
         <Filename Value="loglistfpc.pas"/>
-        <Caret Line="177" Column="23" TopLine="162"/>
+        <Caret Line="434" Column="15" TopLine="406"/>
       </Position10>
       <Position11>
         <Filename Value="loglistfpc.pas"/>
-        <Caret Line="186" Column="15" TopLine="162"/>
+        <Caret Line="436" Column="9" TopLine="408"/>
       </Position11>
       <Position12>
         <Filename Value="loglistfpc.pas"/>
-        <Caret Line="258" Column="17" TopLine="234"/>
+        <Caret Line="441" Column="9" TopLine="413"/>
       </Position12>
       <Position13>
         <Filename Value="loglistfpc.pas"/>
-        <Caret Line="294" Column="13" TopLine="270"/>
+        <Caret Line="623" Column="15" TopLine="595"/>
       </Position13>
       <Position14>
         <Filename Value="loglistfpc.pas"/>
-        <Caret Line="292" Column="28" TopLine="271"/>
+        <Caret Line="625" Column="9" TopLine="597"/>
       </Position14>
       <Position15>
         <Filename Value="loglistfpc.pas"/>
-        <Caret Line="85" Column="35" TopLine="72"/>
+        <Caret Line="630" Column="9" TopLine="602"/>
       </Position15>
       <Position16>
         <Filename Value="loglistfpc.pas"/>
-        <Caret Line="296" Column="14" TopLine="250"/>
+        <Caret Line="717" Column="9" TopLine="689"/>
       </Position16>
       <Position17>
         <Filename Value="loglistfpc.pas"/>
-        <Caret Line="315" Column="12" TopLine="291"/>
+        <Caret Line="722" Column="9" TopLine="694"/>
       </Position17>
       <Position18>
         <Filename Value="loglistfpc.pas"/>
-        <Caret Line="387" Column="58" TopLine="363"/>
+        <Caret Line="723" Column="9" TopLine="695"/>
       </Position18>
       <Position19>
         <Filename Value="loglistfpc.pas"/>
-        <Caret Line="430" Column="57" TopLine="412"/>
+        <Caret Line="57" Column="13" TopLine="38"/>
       </Position19>
       <Position20>
         <Filename Value="loglistfpc.pas"/>
-        <Caret Line="63" Column="34" TopLine="57"/>
+        <Caret Line="120" Column="20" TopLine="91"/>
       </Position20>
       <Position21>
         <Filename Value="loglistfpc.pas"/>
-        <Caret Line="81" Column="20" TopLine="70"/>
+        <Caret Line="336" Column="30" TopLine="308"/>
       </Position21>
       <Position22>
         <Filename Value="loglistfpc.pas"/>
-        <Caret Line="83" Column="24" TopLine="70"/>
+        <Caret Line="338" Column="20" TopLine="310"/>
       </Position22>
       <Position23>
         <Filename Value="loglistfpc.pas"/>
-        <Caret Line="88" Column="73" TopLine="70"/>
+        <Caret Line="409" Column="9" TopLine="381"/>
       </Position23>
       <Position24>
         <Filename Value="loglistfpc.pas"/>
-        <Caret Line="314" Column="13" TopLine="306"/>
+        <Caret Line="422" Column="10" TopLine="394"/>
       </Position24>
       <Position25>
         <Filename Value="loglistfpc.pas"/>
-        <Caret Line="87" Column="22" TopLine="67"/>
+        <Caret Line="432" Column="28" TopLine="404"/>
       </Position25>
       <Position26>
         <Filename Value="loglistfpc.pas"/>
-        <Caret Line="212" Column="18" TopLine="204"/>
+        <Caret Line="621" Column="31" TopLine="593"/>
       </Position26>
       <Position27>
         <Filename Value="loglistfpc.pas"/>
-        <Caret Line="73" TopLine="69"/>
+        <Caret Line="635" Column="8" TopLine="607"/>
       </Position27>
       <Position28>
         <Filename Value="loglistfpc.pas"/>
-        <Caret Line="83" Column="22" TopLine="70"/>
+        <Caret Line="645" Column="8" TopLine="617"/>
       </Position28>
       <Position29>
         <Filename Value="loglistfpc.pas"/>
-        <Caret Line="82" Column="19" TopLine="70"/>
+        <Caret Line="655" Column="8" TopLine="627"/>
       </Position29>
       <Position30>
         <Filename Value="loglistfpc.pas"/>
-        <Caret Line="256" Column="21" TopLine="253"/>
+        <Caret Line="665" Column="8" TopLine="637"/>
       </Position30>
     </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode="default"/>
+    </RunParams>
   </ProjectSession>
 </CONFIG>

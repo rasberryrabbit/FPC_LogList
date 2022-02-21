@@ -39,6 +39,7 @@ uses loglistfpc;
 
 var
   log : TLogListFPC;
+  lpos : Integer = 0;
 
 { TForm1 }
 
@@ -57,14 +58,13 @@ end;
 procedure TForm1.Button2Click(Sender: TObject);
 begin
   log.Clear;
+  lpos:=0;
 end;
 
 procedure TForm1.Button3Click(Sender: TObject);
-var
-  i:integer;
 begin
-  for i:=1 to 9 do
-  log.AddLog(IntToStr(i)+' ok ');
+  log.AddLog(IntToStr(lpos)+' ok ');
+  Inc(lpos);
 end;
 
 procedure TForm1.FormCreate(Sender: TObject);
