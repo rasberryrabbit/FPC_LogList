@@ -1,22 +1,24 @@
 object Form1: TForm1
   Left = 416
-  Height = 307
+  Height = 319
   Top = 198
-  Width = 475
+  Width = 511
   Caption = 'Form1'
-  ClientHeight = 307
-  ClientWidth = 475
+  ClientHeight = 319
+  ClientWidth = 511
   OnCreate = FormCreate
   OnDestroy = FormDestroy
   LCLVersion = '2.3.0.0'
   object Panel1: TPanel
     Left = 8
-    Height = 200
+    Height = 216
     Top = 8
-    Width = 458
+    Width = 494
+    Anchors = [akTop, akLeft, akRight, akBottom]
     BevelColor = clMenuText
     BevelOuter = bvNone
     BevelWidth = 2
+    BorderWidth = 1
     BorderStyle = bsSingle
     Caption = 'Panel1'
     TabOrder = 0

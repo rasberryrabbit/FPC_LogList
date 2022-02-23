@@ -46,11 +46,15 @@ var
 
 procedure TForm1.Button1Click(Sender: TObject);
 var
-  i :Integer;
+  i: Integer;
+  s: string;
 begin
+  s:='123456789$';
+  for i:=0 to 3 do
+    s:=s+s;
   log.LineLimit:=500;
   for i:=1 to 300 do begin
-      log.AddLog(inttostr(i)+StringOfChar('0',100)+StringOfChar('1',5)+';');
+      log.AddLog(inttostr(i)+s+';');
       Application.ProcessMessages;
   end;
 end;
@@ -69,8 +73,9 @@ end;
 
 procedure TForm1.FormCreate(Sender: TObject);
 begin
-  log:=TLogListFPC.Create(self);
+  log:=TLogListFPC.Create(Self);
   log.SetBounds(Panel1.Left,Panel1.Top,Panel1.Width,Panel1.Height);
+  log.Anchors:=[akLeft,akTop,akRight,akBottom];
 end;
 
 procedure TForm1.FormDestroy(Sender: TObject);
